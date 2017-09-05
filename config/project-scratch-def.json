@@ -1,0 +1,7 @@
+{
+    "orgName": "AMIT DX Ligthing",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
